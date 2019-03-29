@@ -1,0 +1,81 @@
+<html>
+<head>
+<style>
+
+table,th,td{border: 1px solid black;
+border-collapse: collapse;}
+
+
+</style>
+</head>
+<body>
+  <h1> <center> Timetable</center></h1>
+<table>
+</style>
+
+<tr style="background-color: #0000ff">
+<th>Time Slot</th>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th >Friday</th>
+</tr>
+
+<tr>
+<td style="background-color: #9999ff ">9-9.30</td>
+<td style="background-color:#33cccc "  >Yoga and Medition</td>
+<td style="background-color:#ffff00 "rowspan="2" >Personal Coaching 9.15 to 11.15</td>
+<td style="background-color: #33cccc ">Yoga and Medition</td>
+<td style="background-color:#33cccc ">Yoga and Medition</td>
+<td style="background-color: #ffff00"rowspan="2" >Personal Coaching 9.15 to 11.15</td>
+</tr>
+<tr>
+<td style="background-color:  #9999ff">9.30-10</td>
+<td style="background-color:#33cccc ">Touchtyping and Blogging</td>
+<td style="background-color:#ff0066" colspan="2" rowspan="2">English-BC Elementary</td>
+</tr>
+
+<tr>
+<td  style="background-color:  #9999ff">10-12</td>
+<td  style="background-color: #993399" > Programming Theoy</td>
+<td  style="background-color:#33cccc" > Personal Coaching/Touchtyping and Blogging</td>
+<td  style="background-color:#33cccc" > Personal Coaching/Touchtyping and Blogging</td>
+
+</tr>
+
+<tr>
+  <td style="background-color: #9999ff">12-1</td>
+  <td  style="background-color: #33cc33" colspan="5" text-align="center">Lunch Break-Carom,Badminton</td>
+</tr>
+
+<tr>
+  <td style="background-color:  #9999ff">1-2</td>
+  <td style="background-color: #993399">Programming Practicals</td>
+  <td style="background-color: #993399">Programming theory</td>
+  <td style="background-color: #993399">Programming theory</td>
+  <td style="background-color: #993399">Programming theory</td>
+  <td style="background-color: #993399">Programming theory</td>
+</tr>
+
+<tr>""
+  <td style="background-color:  #9999ff">2-4</td>
+  <td style="background-color: #993399 ">Programming Practicals Project</td>
+  <td style="background-color:  #993399">Programming Practicals Project</td>
+  <td style="background-color: #993399">Programming Practicals Project</td>
+  <td style="background-color: #993399 ">Programming Practicals Project</td>
+  <td style="background-color:  #993399">Programming Practicals Project</td>
+</tr>
+
+<tr>
+  <td style="background-color: #9999ff">4-4.15</td>
+  <td  style="background-color: #33cc33;text-align:center;" colspan="5" >Tea Break</td>
+</tr>
+  <tr>
+    <td style="background-color: #9999ff">4.15-5</td>
+    <td style="background-color:#cc3300">Tech Talk</td>
+    <td style="background-color:#ff0000">Toastmasters Gavel Club</td>
+    <td style="background-color:#cc3300">Team Building</td>
+    <td style="background-color:#cc3300">Team outing/Tech Movie</td>
+    <td style="background-color:#ff0000">Toastmasters Gavel Club</td>
+  </tr>
